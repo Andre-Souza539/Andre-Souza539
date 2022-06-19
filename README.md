@@ -28,10 +28,11 @@ Hoje em dia estou criando aplicações Web com O Spring Boot Framework, e utiliz
     <img align="center" alt="André -MySQL" height="30" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=21759b">
     <img align="center" alt="André - Node.JS" height="30" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=21759b">
 </div>
+<br><br>
 
-<div>
-      ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-</div>
+
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 
 
 <!--
