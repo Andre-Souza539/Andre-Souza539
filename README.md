@@ -6,11 +6,14 @@ Venho desenvolvendo desde 2017, comecei com a linguagem C, o que me deu sólida 
 <br><br>
 Hoje em dia estou criando aplicações Web com O Spring Boot Framework, e utilizando dos meus conhecimentos de desenvolvimento web para ter páginas mais agradáveis.
 
+<br><br>
+
 <div align="left">
   <a href="https://github.com/Andre-Souza539">
   <img height="180em" width="54%" src="https://github-readme-stats.vercel.app/api?username=Andre-Souza539&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Souza539&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  <br>
   
   
 <div style="display: inline_block"><br>
