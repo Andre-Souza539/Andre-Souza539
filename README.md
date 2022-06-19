@@ -30,7 +30,7 @@ Hoje em dia estou criando aplicações Web com O Spring Boot Framework, e utiliz
 </div>
 
 <div>
-      ![Snake animation](https://github.com/Andre-Souza539/Andre-Souza539/blob/output/github-contribution-grid-snake.svg)
+      ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 </div>
 
 
