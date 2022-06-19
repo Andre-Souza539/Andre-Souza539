@@ -29,6 +29,9 @@ Hoje em dia estou criando aplicações Web com O Spring Boot Framework, e utiliz
     <img align="center" alt="André - Node.JS" height="30" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=21759b">
 </div>
 
+<div>
+      ![Snake animation](https://github.com/Andre-Souza539/Andre-Souza539/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 
 <!--
