@@ -1,4 +1,4 @@
-# Olá, eu sou o André! ☕
+# Olá, me chamo André! ☕
 
 sou um desenvolvedor em busca de uma oportunidade de estágio na área de programação. Tenho habilidades em linguagens de programação como HTML, CSS e JavaScript, além de experiência em Orientação a Objetos com as linguagens Java e PHP.
 <br><br>
