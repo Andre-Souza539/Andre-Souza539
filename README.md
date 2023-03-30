@@ -1,11 +1,10 @@
 # Olá, eu sou o André! ☕
 
-Sou desenvolvedor, atualmente trabalhando com Java e Spring Boot, criando projetos baseados em problemas do mundo real.
+sou um desenvolvedor em busca de uma oportunidade de estágio na área de programação. Tenho habilidades em linguagens de programação como HTML, CSS e JavaScript, além de experiência em Orientação a Objetos com as linguagens Java e PHP.
 <br><br>
-Venho desenvolvendo desde 2017, comecei com a linguagem C, o que me deu sólida base em linguagens fortemente tipadas, desenvolvi para web utilizando wordpress, e aprendi HTML, CSS, JavaScript e PHP para desenvolver pequenos temas e plugins para o wordpress.
+Comecei a desenvolver em 2017, onde adquiri uma sólida base em linguagens fortemente tipadas, principalmente com a linguagem C. Desde então, venho me dedicando ao desenvolvimento web, utilizando o WordPress e aprendendo a trabalhar com HTML, CSS, JavaScript e PHP para desenvolver pequenos temas e plugins para a plataforma
 <br><br>
-Hoje em dia estou criando aplicações Web com O Spring Boot Framework, e utilizando dos meus conhecimentos de desenvolvimento web para ter páginas mais agradáveis.
-
+Recentemente, tenho me aprimorado ainda mais em Desenvolvimento Web através de cursos e bootcamps em PHP, visando aprimorar minhas habilidades e conhecimentos para aplicá-los em um ambiente profissional. Estou animado para contribuir com meu conhecimento e aprendizado em uma empresa e aprender ainda mais na prática
 <br><br>
 
 <div align="left">
