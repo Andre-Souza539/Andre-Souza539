@@ -1,11 +1,15 @@
 # Olá, me chamo André! ☕
 
-sou um desenvolvedor em busca de uma oportunidade de estágio na área de programação. Tenho habilidades em linguagens de programação como HTML, CSS e JavaScript, além de experiência em Orientação a Objetos com as linguagens Java e PHP.
+Sou Desenvolvedor Java com cerca de 2 anos de experiência no desenvolvimento de aplicações para o setor financeiro.
 <br><br>
-Comecei a desenvolver em 2017, onde adquiri uma sólida base em linguagens fortemente tipadas, principalmente com a linguagem C. Desde então, venho me dedicando ao desenvolvimento web, utilizando o WordPress e aprendendo a trabalhar com HTML, CSS, JavaScript e PHP para desenvolver pequenos temas e plugins para a plataforma
+Trabalho com arquitetura de microserviços, utilizando Java 17, Spring Boot 3+, Camunda 8 e PostgreSQL, focado em construir soluções escaláveis, resilientes e bem estruturadas.
 <br><br>
-Recentemente, tenho me aprimorado ainda mais em Desenvolvimento Web através de cursos e bootcamps em PHP, visando aprimorar minhas habilidades e conhecimentos para aplicá-los em um ambiente profissional. Estou animado para contribuir com meu conhecimento e aprendizado em uma empresa e aprender ainda mais na prática
+Sou um entusiasta de tecnologia e apaixonado por programação, sempre buscando aprender mais, evoluir tecnicamente e participar de grandes projetos que transformam ideias em soluções reais.
 <br><br>
+
+### 📫 How to reach me: 
+  - E-mail: andre.souza@nerdlab.dev.br
+  - LinkedIn: https://www.linkedin.com/in/andre-j-souza/
 
 <div align="left">
   <a href="https://github.com/Andre-Souza539">
@@ -41,12 +45,7 @@ Recentemente, tenho me aprimorado ainda mais em Desenvolvimento Web através de 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
