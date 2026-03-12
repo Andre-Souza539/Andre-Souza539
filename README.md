@@ -17,9 +17,7 @@ Sou um entusiasta de tecnologia e apaixonado por programação, sempre buscando 
   <img height="180em" width="54%" src="https://github-readme-stats.vercel.app/api?username=Andre-Souza539&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Souza539&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  <br>
-  
-  
+  <br>  
 <div style="display: inline_block"><br>
      <img align="center" alt="André - HTML" height="30" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
      <img align="center" alt="André - CSS" height="30" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
@@ -39,14 +37,3 @@ Sou um entusiasta de tecnologia e apaixonado por programação, sempre buscando 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Andre-Souza539/Andre-Souza539/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-
-
-<!--
-**Andre-Souza539/Andre-Souza539** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 📫 How to reach me: ...
-
--->
