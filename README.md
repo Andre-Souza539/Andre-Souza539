@@ -10,6 +10,7 @@ Sou um entusiasta de tecnologia e apaixonado por programação, sempre buscando 
 ### 📫 How to reach me: 
   - E-mail: andre.souza@nerdlab.dev.br
   - LinkedIn: https://www.linkedin.com/in/andre-j-souza/
+<br><br>
 
 <div align="left">
   <a href="https://github.com/Andre-Souza539">
